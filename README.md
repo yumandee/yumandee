@@ -1,7 +1,7 @@
 Hi 👋 My name is Mandy Yu
 =========================
 
-Aspiring Full-Stack Web Developer
+Aspiring Software Engineer
 ---------------------------------
 
 I recently graduated from Hunter College this May 2022 with a Bachelor's Degree in Computer Science. Following my graduation, I am currently focused on technical interview preparation and finding a full-time job.
