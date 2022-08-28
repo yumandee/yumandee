@@ -9,7 +9,7 @@ I recently graduated from Hunter College this May 2022 with a Bachelor's Degree 
 * 🌍  I'm based in New York.
 * ✉️  You can contact me at [yumandee@yahoo.com](mailto:yumandee@yahoo.com)
 * 🧠  I'm learning new frameworks and studying data structures and algorithms.
-* ⚡  I love to teach kids how to code!
+* ⚡  I'm a passionate educator with 8 years of experience teaching math, ELA, and programming to K-12 and higher education students.
 
 ### Skills
 
