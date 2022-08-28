@@ -1,12 +1,13 @@
 Hi 👋 My name is Mandy Yu
 =========================
 
-Aspiring Software Engineer
----------------------------------
+Aspiring Software Engineer Looking for New Grad roles
+-----------------------------------------------------
 
 I recently graduated from Hunter College this May 2022 with a Bachelor's Degree in Computer Science. Following my graduation, I am currently focused on technical interview preparation and finding a full-time job.
 
 * 🌍  I'm based in New York.
+* 🖥️  See my portfolio at [https://yumandee-portfolio.netlify.app/](http://yumandee-portfolio.netlify.app/)
 * ✉️  You can contact me at [yumandee@yahoo.com](mailto:yumandee@yahoo.com)
 * 🧠  I'm learning new frameworks and studying data structures and algorithms.
 * ⚡  I'm a passionate educator with 8 years of experience teaching math, ELA, and programming to K-12 and higher education students.
